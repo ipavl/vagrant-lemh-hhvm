@@ -1,4 +1,4 @@
-hhvm-vagrant-lemh
+vagrant-lemh-hhvm
 -----------------
 
 [Vagrant](https://www.vagrantup.com/) configuration to create a development environment with Ubuntu 16.04 LTS (Xenial Xerus), [nginx](https://nginx.org/), [MariaDB](https://mariadb.org/), and [Hack](http://hacklang.org)/[HHVM](http://hhvm.com/).
